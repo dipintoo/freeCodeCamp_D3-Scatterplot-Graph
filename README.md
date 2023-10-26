@@ -4,7 +4,7 @@
 
 ## Teknologi yang digunakan
 
-Pada project ini kamu akan memvisualisasikan data [Kasus dopping dari pembalap sepeda](https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/cyclist-data.json) dengan data berformat JSON menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk Scatterplot. Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan Bar Chart yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
+Pada project ini kamu akan memvisualisasikan data [Kasus dopping dari pembalap sepeda](https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/cyclist-data.json) dengan data berformat JSON menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk Scatterplot. Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan Scatterplot yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
 
 ## User Stories:
 
